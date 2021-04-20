@@ -2,6 +2,6 @@
 yarn add -D @babel/core babel-loader @babel/preset-env webpack webpack-cli webpack-node-externals nodemon dotenv
 
 [dependencies]
-yarn add express cookie-parser compression cors helmet mongoose
+yarn add express cookie-parser compression cors helmet mongoose joi bcrypt
 
 
